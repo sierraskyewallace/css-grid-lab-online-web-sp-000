@@ -9,6 +9,7 @@ body {
   width: 100vw;
   display: grid;
   grid-template: [header-start] 1fr [header-end] 1fr 1fr 1fr / 1fr 1fr 1fr;
+  grid-area: <grid-row-start> / <grid-column-start> / <grid-row-end> / <grid-column-end>
 }
 
 .grid-item {
