@@ -12,11 +12,6 @@ body {
   grid-gap: 5px;
 }
 
-.grid-item {
-  background-color: grey;
-  border: 1px solid black;
-}
-
 .bigItem {
   grid-area: 2 / 2 / 4 / 4;
   height: 50%;
